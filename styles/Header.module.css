@@ -1,0 +1,17 @@
+.container {
+    width: 110%;
+    margin-left: -10%;
+    height: 64px;
+    left: 0px;
+    top: 0px;
+    background: #393E46;
+}
+.menuContainer {
+    width: 90%;
+    height: 1100px;
+    left: 0px;
+    top: 0px;
+
+    background: #393E46;
+    box-shadow: 8px 0px 6px rgba(51, 51, 51, 0.2);
+}
